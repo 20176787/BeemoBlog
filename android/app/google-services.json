@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566237766840",
+    "firebase_url": "https://beemoblog.firebaseio.com",
+    "project_id": "beemoblog",
+    "storage_bucket": "beemoblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566237766840:android:17a13de3d7e7b9080ac04d",
+        "android_client_info": {
+          "package_name": "com.beemoblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566237766840-a7emqvd4avasbgldu97tjun3d2r09ps5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4Z3Gifb-RzcWDpGx3ke4iCIwtTeB6gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566237766840-a7emqvd4avasbgldu97tjun3d2r09ps5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
